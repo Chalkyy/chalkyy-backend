@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Chalkyy/chalkyy-backend/compare/v1.0.0...v1.0.1) (2024-09-07)
+
+
+### Bug Fixes
+
+* do not rerun ci on changelog change ([dee86a9](https://github.com/Chalkyy/chalkyy-backend/commit/dee86a9ad680610f1429823b6d2d86d3258c4008))
+
 # 1.0.0 (2024-09-07)
 
 
